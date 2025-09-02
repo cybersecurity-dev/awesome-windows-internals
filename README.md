@@ -1,2 +1,1 @@
-# awesome-windows-internals
-Awesome Windows Internals
+# Awesome Windows Internals
