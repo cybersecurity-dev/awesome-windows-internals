@@ -15,7 +15,22 @@
 
 
 ## 📖 Contents
+- [System Architecture](#system-architecture)
+- [Processes and Jobs](#processes-and-jobs)
+- [Threads](#threads)
+- [Memory Management](#memory-management)
+- [I/O System](#io-system)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+
+### System [Architecture](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
+
+### Processes and Jobs
+
+### Threads
+
+### Memory [Management](https://en.wikipedia.org/wiki/Memory_management_(operating_systems))
+
+### I/O System
