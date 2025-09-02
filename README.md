@@ -27,13 +27,13 @@
 
 ### System [Architecture](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT)
 
-### Processes and Jobs
+### [Processes](https://en.wikipedia.org/wiki/Process_(computing)) and Jobs
 
-### Threads
+### [Threads](https://en.wikipedia.org/wiki/Thread_(computing))
 
 ### Memory [Management](https://en.wikipedia.org/wiki/Memory_management_(operating_systems))
 
-### I/O System
+### [I/O](https://en.wikipedia.org/wiki/List_of_file_systems) System
 
 
 ## 
