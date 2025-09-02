@@ -2,7 +2,7 @@
   <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/winternals1.jpg" /><img width="29.8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/winternals2.jpg" />
 </a></p>
 
-# Awesome Windows [Internals]() [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Windows [Internals](https://learn.microsoft.com/sysinternals/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
