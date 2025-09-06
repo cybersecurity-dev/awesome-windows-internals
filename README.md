@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="50%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Windows.svg" />
+</p>
 <p align="center"><a href="https://learn.microsoft.com/sysinternals/resources/windows-internals">
   <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/winternals1.jpg" /><img width="29.8%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/winternals2.jpg" />
 </a></p>
